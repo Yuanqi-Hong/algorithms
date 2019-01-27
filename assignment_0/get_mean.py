@@ -1,3 +1,15 @@
+# Algorithms, Spring 2019
+# Assignment 0
+# Yuanqi (Edward) Hong
+
+
+
+# this python file contains one function called get_mean
+# which takes in a file called data.csv put under the same directory
+# and prints out the mean of all numbers contained in that csv file
+
+
+
 # define a function called get_mean
 # this function is going to read in data.csv (put in the same directory)
 # and print out the mean of all numbers in it
